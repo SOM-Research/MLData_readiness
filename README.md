@@ -12,6 +12,10 @@ The *FullAnalysisResults.xlsx* contains the full data, the charts, the topic ana
 
 3 - **Code**: The code used to extract the data. One for each journal. This will help into replicating the experiment.
 
-*SDataExtractor.py* and *DBriefExtractor.py* contains the code to perform the extraction. Note you will need and OpenAI ApiKey and a GROBID service running to execute the notebooks.
+*dataPaperScrapping.ipynb* notebook contains the code used to filter all the data papers type of both journals, and get the PDF (when possible). If you want to reproduce the experiment you may start by this notebook.
+
+Once you have all the PDF of the journals, *SDataExtractor.py* and *DBriefExtractor.py* contains the code to perform the extraction for each journal. Note you will need and OpenAI ApiKey and a GROBID service running to execute the notebooks.
+
+
 
 
