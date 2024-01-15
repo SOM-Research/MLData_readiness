@@ -10,7 +10,7 @@ The *fullResults.xlsx* file contains the whole results of the extraction process
 
 2 - **Analysis sheet**: The sheet with the charts, counts and analysis done to write the study
 
-The *FullAnalysisResults.xlsx* contains the full data, the charts, the topic analysis, and high-level insights of the data
+The *FullStudyAnalysis.xlsx* contains the full data, the charts, the topic analysis, and high-level insights of the data
 
 3 - **Code**: The code used to extract the data. One for each journal. This will help into replicating the experiment.
 
