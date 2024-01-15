@@ -1,4 +1,6 @@
 ### This is the data supporting the study: "On the Readiness of Scientific Data for a Fair and Transparent Use in Machine learning"
+[![DOI](https://zenodo.org/badge/692880864.svg)](https://zenodo.org/doi/10.5281/zenodo.10514145)
+
 
 In this repository you will find:
 
