@@ -528,7 +528,6 @@ with open('SData/ResultsSData.csv', 'w', newline='') as output_file:
     results = []
     for index, data_paper in df.iterrows():
         print("Processing the:"+ data_paper['display_name'])
-        # If process is interrupted, look at the results and change this number
         if index > 0:
             tags = ""
             try:
